@@ -69,5 +69,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbxtzz&langs_count=8&theme=tokyonight&layout=compact" />
     <img src="https://activity-graph.herokuapp.com/graph?username=devbxtzz&theme=dracula"> 
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devbxtzz&label=Profile%20views&color=0e75b6&style=flat" alt="Batya Tonny" /> </p>
-
