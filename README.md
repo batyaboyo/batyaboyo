@@ -1,17 +1,8 @@
-- 👋 Hi, I’m @devbxtzz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-devbxtzz/devbxtzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 👋 I'm Batya Tonny
+# 👋 I'm Tonny Batya
 
 <div align="justify">
- A Full Stack Developer currently i'm working with JavaScript technologies. Right now i'm focused on learning Back End Web Development And Blockchain . I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+ A Full Stack Developer Focused on Back End Web Development And Blockchain. 
+ I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
 <div>
