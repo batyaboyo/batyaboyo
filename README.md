@@ -9,7 +9,7 @@
   <br>
   <p>
   <a href="http://twitter.com/devbxtzz">
-    <img src="https://img.shields.io/twitter/follow/devbxtzz?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/bxtz_eth?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/batya-tonny-108a92234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
@@ -71,4 +71,3 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbxtzz&label=Profile%20views&color=0e75b6&style=flat" alt="Batya Tonny" /> </p>
 
-<p align="left"> <a href="https://github.com/devbxtzz/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbxtzz" alt="Batya Tonny" /></a> </p>
