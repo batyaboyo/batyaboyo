@@ -74,4 +74,19 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=devbxtzz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
     <br />
 </div>
-[![Tonny Batya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devbxtzz&bg_color=01131e&color=fffaff&line=0099ad&point=086b78&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devbxtzz&bg_color=002433&color=fffafa&line=0ed3e1&point=0bdfef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+
+
+
+
