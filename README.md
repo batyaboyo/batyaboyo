@@ -74,11 +74,3 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=devbxtzz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
     <br />
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devbxtzz&bg_color=002433&color=fffafa&line=0ed3e1&point=0bdfef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-
