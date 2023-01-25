@@ -9,8 +9,8 @@
   <br>
   <p>
    
-   <a href="https://www.linkedin.com/in/batya-tonny-108a92234/" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://twitter.com/devbxtzz" target="blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
+   <a href="https://www.linkedin.com/in/batya-tonny-108a92234/" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="50"></a>
+	<a href="https://twitter.com/devbxtzz" target="blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" height="50"></a>
   <a href="http://twitter.com/devbxtzz">
     <img src="https://img.shields.io/twitter/follow/devbxtzz?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
