@@ -9,8 +9,7 @@
   <br>
   <p> 
  <a target="_blank"  href="https://www.linkedin.com/in/batya-tonny-108a92234/" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="30"></a>
-<a target="_blank"  href="https://twitter.com/devbxtzz" target="blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" height="30"></a>
-  
+<a target="_blank"  href="https://twitter.com/devbxtzz" target="blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" height="30"></a> 
 </p>
 </div>
 
