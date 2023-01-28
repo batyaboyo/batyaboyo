@@ -17,7 +17,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Languages
+## Languages
 
 <div align="center">  
 <a href="https://developer.mozilla.org"><img style="margin: 10px" Src="https://img.icons8.com/color/2x/javascript.png" alt="JavaScript" height="50" /></a>
@@ -30,7 +30,7 @@
 
 </td><td valign="top" width="33%">
 
-### Frameworks
+## Frameworks
 
 <div align="center">   
 <a href=""><img style="margin: 10px" Src="https://img.icons8.com/color/2x/react-native.png" alt="React" height="50" /></a>
