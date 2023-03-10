@@ -56,7 +56,8 @@ As a proactive and self-motivated individual, I am always looking for new opport
 <a href=""><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" alt="Hardhat" height="50" /></a>
 </div>
 
-</td></tr></table>
+</td></tr></
+  table>
 
 ## 📈 Github Stats
 <div>
