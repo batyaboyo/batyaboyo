@@ -52,7 +52,7 @@ As a proactive and self-motivated individual, I am always looking for new opport
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="VS-Code" height="50" /></a>
 <a href=""><img style="margin: 10px" Src="https://img.icons8.com/color/2x/mongodb.png" alt="Mongodb" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/git.png" alt="git" height="50" /></a>
-<a href=""><img style="margin: 10px" src="https://icons8.com/icon/17842/linux" height="50" /></a>
+<a href=""><img style="margin: 10px" src="https://icons8.com/icon/17842/linux.png" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" alt="Hardhat" height="50" /></a>
 </div>
 
