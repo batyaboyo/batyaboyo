@@ -3,7 +3,6 @@
 <div align="justify">
 I am a passionate Full Stack Developer with a keen interest in exploring emerging technologies like Blockchain and Artificial Intelligence. I am excited to leverage my skills and experience to contribute to innovative projects and make a difference.
   
-  
 As a proactive and self-motivated individual, I am always looking for new opportunities to learn and grow in my career. I am open to exploring various roles in Software development and believe that my technical skills, excellent communication, collaboration, and problem-solving abilities make me a valuable asset to any team.
 </div>
 
