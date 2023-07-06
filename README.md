@@ -15,7 +15,8 @@ I'm self-motivated individual, I am always looking for new opportunities to lear
 
 # 🔧 Technologies & Tools
 
-<table><tr><td valign="top" width="33%">
+<table>
+  <tr><td valign="top" width="33%">
 
 ## Languages
 
