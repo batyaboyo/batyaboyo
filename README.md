@@ -1,4 +1,4 @@
-# 👋 I'm Tonny Batya
+# 👋 I'm Tonny Batya A.K.A Devbxtzz
 
 <div align="justify">
 A Developer with a keen interest in exploring Blockchain and Artificial Intelligence.
