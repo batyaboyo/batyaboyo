@@ -42,11 +42,9 @@ I'm self-motivated individual, I am always looking for new opportunities to lear
 <a href="https://tailwindcss.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwindcss" height="50" /></a>
  
 </div>
-
 </td><td valign="top" width="33%">
 
 ## Tools
-
 <div align="center">  
 <a href=""><img style="margin: 10px" Src="https://img.icons8.com/color/2x/github.png" alt="Github" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="VS-Code" height="50" /></a>
