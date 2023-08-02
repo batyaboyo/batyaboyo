@@ -61,10 +61,6 @@ I'm self-motivated individual, I am always looking for new opportunities to lear
 <div>
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbxtzz&langs_count=8&theme=tokyonight&layout=compact" />
-
-</div>
-
-<div>
     <br />
     <img src="http://github-readme-streak-stats.herokuapp.com?user=devbxtzz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
     <br />
