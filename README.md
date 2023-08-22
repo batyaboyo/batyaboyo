@@ -1,8 +1,7 @@
 # 👋 I'm Tonny Batya A.K.A Devbxtzz
 
 <div align="justify">
-A Developer with a keen interest in exploring Blockchain and Artificial Intelligence.
-I'm self-motivated individual, I am always looking for new opportunities to learn and grow in my career. I am open to exploring various roles in Software development and believe that my technical skills, excellent communication, collaboration, and problem-solving abilities make me a valuable asset to any team.
+Software Developer, Blockchain and AI Enthusiast, Founder, and Writer at the Forefront of Emerging Technologies: Fusing Proficiency in Coding with a Passion for Blockchain and AI to Engineer and Chronicle Extraordinary Online Experiences
 </div>
 
 <div>
