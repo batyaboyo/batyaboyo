@@ -1,7 +1,9 @@
 # 👋 I'm Tonny Batya A.K.A Devbxtzz
 
 <div align="justify">
-Software Developer, Blockchain and AI Enthusiast and Writer at the Forefront of Emerging Technologies: Fusing Proficiency in Coding with a Passion for Blockchain and AI to Engineer and Build Extraordinary Online Experiences
+
+Software developer and Writer. Engineering extraordinary online experiences with the power of Blockchain and AI.
+
 </div>
 
 <div>
