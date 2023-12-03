@@ -61,9 +61,9 @@ Softwar Developer and Tech Writer engineering extraordinary online experiences w
 ## 📈 Github Stats
 <div>
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbatx&langs_count=8&theme=tokyonight&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbxtzz&langs_count=8&theme=tokyonight&layout=compact" />
     <br />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=devbatx&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=devbxtzz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
     <br />
 </div>
 
