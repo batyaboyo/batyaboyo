@@ -1,4 +1,4 @@
-# 👋 I'm Tonny Batya A.K.A Devbxtzz
+# 👋 I'm BATYA Boyo
 
 <div align="justify">
 
@@ -10,8 +10,8 @@ Softwar Developer and Tech Writer engineering extraordinary online experiences w
   
   <br>
   <p> 
- <a target="_blank"  href="https://www.linkedin.com/in/tonny-batya/" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="30"></a>
-<a target="_blank"  href="https://twitter.com/devbxtzz" target="_blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" height="30"></a> 
+ <a target="_blank"  href="https://www.linkedin.com/in/batya-boyo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="30"></a>
+<a target="_blank"  href="https://twitter.com/batyaboyo" target="_blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" height="30"></a> 
 </p>
 </div>
 
@@ -41,7 +41,7 @@ Softwar Developer and Tech Writer engineering extraordinary online experiences w
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/bootstrap.png" alt="Bootstrap" height="50" /></a>
 <a href=""><img style="margin: 10px" Src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django" height="50" /></a>
 <a href="https://nextjs.org/"><img style="margin: 10px" src="https://img.icons8.com/color/2x/nextjs.png" alt="NextJs" height="50" /></a>
-<a href="https://tailwindcss.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwindcss" height="50" /></a>
+<a href="https://tailwindcss.com/"><img style="margin: 10px" src="https://raw.githubusercontent.com/batyaboyo/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwindcss" height="50" /></a>
  
 </div>
 </td><td valign="top" width="33%">
@@ -61,9 +61,9 @@ Softwar Developer and Tech Writer engineering extraordinary online experiences w
 ## 📈 Github Stats
 <div>
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbxtzz&langs_count=8&theme=tokyonight&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyaboyo&langs_count=8&theme=tokyonight&layout=compact" />
     <br />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=devbxtzz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="http://github-readme-streak-stats.herokuapp.com?username=batyaboyo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
     <br />
 </div>
 
