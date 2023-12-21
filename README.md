@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-Softwar Developer and Tech Writer engineering extraordinary online experiences with the power of Blockchain and AI.
+Software Developer and Tech Writer engineering extraordinary online experiences with the power of Blockchain and AI.
 
 </div>
 
