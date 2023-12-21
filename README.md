@@ -63,7 +63,7 @@ Software Developer and Tech Writer engineering extraordinary online experiences 
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyaboyo&langs_count=8&theme=tokyonight&layout=compact" />
     <br />
-    <img src="http://github-readme-streak-stats.herokuapp.com?username=batyaboyo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=batyaboyo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
     <br />
 </div>
 
