@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-Software Developer and Technical Writer
+Software Developer
 
 </div>
 
