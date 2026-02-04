@@ -91,6 +91,58 @@ To grow into a **skilled cybersecurity professional** who understands systems **
 
 </td></tr></table>
 
+### 🐍 GitHub Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/batyaboyo/batyaboyo/output/github-snake.svg"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](./profile/stats.svg)  
+![Top Langs](./profile/top-langs.svg)  
+
+---
+
+### 🔥 Contribution Streak
+
+![Streak](./profile/streak.svg)
+
+---
+
+### ⏲ WakaTime Stats
+
+![WakaTime](./profile/wakatime.svg)
+
+---
+
+### 👁 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=batyaboyo&label=Profile%20views&color=0e75b6&style=flat" alt="batyaboyo" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/batyaboyo" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pranesh5264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:praneshmadhan646@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://praneshjs.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  💻 Always open to collaborating on exciting **AI, ML, or Cloud-based projects**. Let’s innovate together!
+</p>
+
+
+
 ## 📈 Github Stats
 <div>
  
