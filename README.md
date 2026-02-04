@@ -1,8 +1,41 @@
-# 👋 I'm Batya Boyo
+## 👋 Hi, I’m **batya boyo**
 
-<div align="justify">
+🎓 **Computer Science Graduate**  
+🔐 **Cybersecurity Enthusiast** | 🛡️ **Future Ethical Hacker**  
+🌐 **Full-Stack Developer (Django)** | 💻 **IT & Systems Support**
 
-Software Developer
+I’m passionate about **building secure systems**, **breaking them ethically**, and understanding how **real-world attacks actually work**. My main focus is on **defensive security (SOC & DFIR)**, with a clear path toward **ethical hacking and red teaming**.
+
+I enjoy turning **real problems into practical solutions**—from monitoring and incident response tools, to secure web applications and IT automation projects.
+
+---
+
+### 🚀 What I’m currently working on
+- 🟦 SOC & Blue Team labs (log analysis, detection, incident response)
+- 🔍 Ethical hacking fundamentals & web security
+- 🧪 Real-world cybersecurity & IT projects
+- 🌱 Strengthening backend skills with **Django**
+
+---
+
+### 🧰 Tech & Tools
+- **Security:** Networking, Linux, Windows, SIEM, Incident Response  
+- **Development:** HTML, CSS, JavaScript, Python, Django  
+- **IT & Systems:** System administration, troubleshooting, hardening  
+
+---
+
+### 🎯 Career Goal
+To grow into a **skilled cybersecurity professional** who understands systems **from the inside out**—defending, testing, and improving them with discipline and curiosity.
+
+---
+
+### 📫 Let’s connect
+- 💼 Open to internships, junior roles, and collaborations  
+- 🌍 Interested in remote and global opportunities  
+
+> *“Security is not about tools — it’s about mindset.”* 🧠🔐
+
 
 </div>
 
