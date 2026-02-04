@@ -94,14 +94,18 @@ To grow into a **skilled cybersecurity professional** who understands systems **
 ## 🐍 GitHub Stats
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=batyaboyo&theme=tokyonight"/>
+  
 </p>
 
 <div>
- 
- <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=batyaboyo&langs_count=8&theme=tokyonight&layout=compact" />
+    <img src="https://gh-readme-profile.vercel.app/api?username=batyaboyo&theme=tokyonight&border_width=0"/>
+   <br />
+    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=batyaboyo&langs_count=8&theme=tokyonight&layout=compact" />
+    
     <br />
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=batyaboyo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+    
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=batyaboyo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+    
     <br />
 </div>
 
