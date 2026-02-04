@@ -1,3 +1,12 @@
+<div>
+  
+  <br>
+  <p> 
+ <a target="_blank"  href="https://www.linkedin.com/in/batyaboyo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="30"></a>
+<a target="_blank"  href="https://twitter.com/batyaboyo" target="_blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" height="30"></a> 
+</p>
+</div
+  
 ## 👋 Hi, I’m **batya boyo**
 
 🎓 **Computer Science Graduate**  
@@ -39,21 +48,13 @@ To grow into a **skilled cybersecurity professional** who understands systems **
 
 </div>
 
-<div>
-  
-  <br>
-  <p> 
- <a target="_blank"  href="https://www.linkedin.com/in/batya-boyo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="30"></a>
-<a target="_blank"  href="https://twitter.com/batyaboyo" target="_blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" height="30"></a> 
-</p>
-</div>
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 <table>
   <tr><td valign="top" width="33%">
 
-## Languages
+### Languages
 
 <div align="center">  
 <a href="https://developer.mozilla.org"><img style="margin: 10px" Src="https://img.icons8.com/color/2x/javascript.png" alt="JavaScript" height="50" /></a>
@@ -66,7 +67,7 @@ To grow into a **skilled cybersecurity professional** who understands systems **
 
 </td><td valign="top" width="33%">
 
-## Frameworks
+### Frameworks
 
 <div align="center">   
 <a href=""><img style="margin: 10px" Src="https://img.icons8.com/color/2x/react-native.png" alt="React" height="50" /></a>
@@ -79,7 +80,7 @@ To grow into a **skilled cybersecurity professional** who understands systems **
 </div>
 </td><td valign="top" width="33%">
 
-## Tools
+### Tools
 <div align="center">  
 <a href=""><img style="margin: 10px" Src="https://img.icons8.com/color/2x/github.png" alt="Github" height="50" /></a>
 <a href=""><img style="margin: 10px" src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="VS-Code" height="50" /></a>
@@ -98,7 +99,7 @@ To grow into a **skilled cybersecurity professional** who understands systems **
 </p>
 
 <div>
-    <img src="https://gh-readme-profile.vercel.app/api?username=batyaboyo&theme=tokyonight&border_width=0"/>
+    <img src="https://gh-readme-profile.vercel.app/api?username=batyaboyo&theme=tokyonight&border_radius=5"/>
   <br>
     <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=batyaboyo&langs_count=8&theme=tokyonight&layout=compact" />
   <br>
@@ -106,7 +107,7 @@ To grow into a **skilled cybersecurity professional** who understands systems **
     
 </div>
 
-### 👁 Profile Views
+## 👁 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=batyaboyo&label=Profile%20views&color=0e75b6&style=flat" alt="batyaboyo" />
