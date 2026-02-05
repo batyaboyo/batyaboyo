@@ -98,7 +98,7 @@ To grow into a **skilled cybersecurity professional** who understands systems **
   <br>
     <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=batyaboyo&langs_count=8&theme=tokyonight&layout=compact" />
   <br>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=batyaboyo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+   
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=batyaboyo&theme=tokyonight)](https://git.io/streak-stats)
 
