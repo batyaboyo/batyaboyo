@@ -94,7 +94,7 @@ To grow into a **skilled cybersecurity professional** who understands systems **
 </p>
 
 
-  <img src="https://gh-readme-profile.vercel.app/api?username=batyaboyo&theme=tokyonight&border_radius=5"/>
+  <img src="https://gh-readme-profile.vercel.app/api?username=batyaboyo&theme=tokyonight&border_radius=4.5"/>
   <br>
     <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=batyaboyo&langs_count=8&theme=tokyonight&layout=compact" />
   <br>
