@@ -2,25 +2,32 @@
 <a target="_blank"  href="https://twitter.com/batyaboyo" target="_blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" height="30"></a> 
 
   
-## 👋 Hi, I’m **batya boyo**
+## 👋 Hi, I'm Batya Boyo
 
-🎓 **Computer Science Graduate**  
-🔐 **Cybersecurity Enthusiast** | 🛡️ **Future Ethical Hacker**  
-🌐 **Full-Stack Developer (Django)** | 💻 **IT & Systems Support**
+🔐 Ethical Hacking & Cybersecurity  
+💻 Computer Science Background  
+🌍 Passionate about Offensive Security
 
-I’m passionate about **building secure systems**, **breaking them ethically**, and understanding how **real-world attacks actually work**. My main focus is on **defensive security (SOC & DFIR)**, with a clear path toward **ethical hacking and red teaming**.
+I’m focused on building strong skills in **ethical hacking and penetration testing**, learning how attackers think and how systems can be secured against real-world threats.
 
-I enjoy turning **real problems into practical solutions**—from monitoring and incident response tools, to secure web applications and IT automation projects.
+My interests include:
+- Web application security
+- Vulnerability research
+- Network penetration testing
+- Bug bounty hunting
 
----
+I enjoy working on **hands-on security labs, real-world projects, and vulnerability research** to deepen my understanding of offensive security.
 
-### 🚀 What I’m currently working on
-- 🟦 SOC & Blue Team labs (log analysis, detection, incident response)
-- 🔍 Ethical hacking fundamentals & web security
-- 🧪 Real-world cybersecurity & IT projects
-- 🌱 Strengthening backend skills with **Django**
+### 🔧 Current Focus
+- Practicing ethical hacking labs
+- Studying web application vulnerabilities
+- Building security tools and projects
+- Learning advanced penetration testing techniques
 
----
+### 🎯 Goal
+To become a highly skilled **ethical hacker and security researcher**, helping organizations identify and fix security vulnerabilities before attackers exploit them.
+
+⚡ Always learning. Always testing. Always improving.
 
 ### 🧰 Tech & Tools
 - **Security:** Networking, Linux, Windows, SIEM, Incident Response  
