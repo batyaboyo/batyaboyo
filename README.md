@@ -1,53 +1,35 @@
 <a target="_blank"  href="https://www.linkedin.com/in/batyaboyo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="30"></a>
 <a target="_blank"  href="https://twitter.com/batyaboyo" target="_blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter" height="30"></a> 
 
-  
 ## 👋 Hi, I'm Batya Boyo
 
-🔐 Ethical Hacking & Cybersecurity  
-💻 Computer Science Background  
-🌍 Passionate about Offensive Security
+🔐 Ethical Hacking | 📊 Data Analysis  
+💻 Cybersecurity & Data-Driven Problem Solving  
 
-I’m focused on building strong skills in **ethical hacking and penetration testing**, learning how attackers think and how systems can be secured against real-world threats.
+I’m building skills at the intersection of **ethical hacking and data analysis**, combining offensive security with data-driven insights.
 
-My interests include:
-- Web application security
-- Vulnerability research
-- Network penetration testing
-- Bug bounty hunting
+### 🔍 What I Do
+- Identify and analyze security vulnerabilities  
+- Explore web application and network security  
+- Work on data analysis and visualization  
+- Build tools and projects that solve real-world problems  
 
-I enjoy working on **hands-on security labs, real-world projects, and vulnerability research** to deepen my understanding of offensive security.
+### 🧰 Focus Areas
+- Penetration Testing  
+- Web Application Security  
+- Vulnerability Research  
+- Data Analysis & Visualization  
 
-### 🔧 Current Focus
-- Practicing ethical hacking labs
-- Studying web application vulnerabilities
-- Building security tools and projects
-- Learning advanced penetration testing techniques
+### 🚀 Current Work
+- Ethical hacking labs and security projects  
+- Data analysis projects and dashboards  
+- Security + data automation tools  
 
 ### 🎯 Goal
-To become a highly skilled **ethical hacker and security researcher**, helping organizations identify and fix security vulnerabilities before attackers exploit them.
+To become a skilled **ethical hacker and data analyst**, using both security and data skills to uncover insights, detect risks, and build smarter systems.
 
-⚡ Always learning. Always testing. Always improving.
-
-### 🧰 Tech & Tools
-- **Security:** Networking, Linux, Windows, SIEM, Incident Response  
-- **Development:** HTML, CSS, JavaScript, Python, Django  
-- **IT & Systems:** System administration, troubleshooting, hardening  
-
----
-
-### 🎯 Career Goal
-To grow into a **skilled cybersecurity professional** who understands systems **from the inside out**—defending, testing, and improving them with discipline and curiosity.
-
----
-
-### 📫 Let’s connect
-- 💼 Open to internships, junior roles, and collaborations  
-- 🌍 Interested in remote and global opportunities  
-
-> *“Security is not about tools — it’s about mindset.”* 🧠🔐
-
-
+⚡ Learning. Building. Improving.
+  
 </div>
 
 
