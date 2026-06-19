@@ -31,8 +31,6 @@ I engineer reliable full-stack applications, conduct penetration testing to unco
 #### ⚙️ [Core Web Application Portfolio](https://github.com)
 *Full-stack development tracking clean frontend delivery and robust backend architecture principles.*
 
-#### 🛡️ [Security Testing & Analysis Artifacts](https://github.com)
-*Ethical hacking proof-of-concepts, API verification scripts, and data-driven log analysis tools.*
 
 </div>
 
