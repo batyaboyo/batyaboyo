@@ -21,16 +21,8 @@ I engineer reliable full-stack applications, conduct penetration testing to unco
 | Discipline | Technology Stack |
 | :--- | :--- |
 | **Engineering** | Python, Django, JavaScript, TypeScript, Next.js, HTML5/CSS3 |
-| **Security & Data** | Penetration Testing, Ethical Hacking, MongoDB, Unix/Linux Environments |
+| **Security & Data** | Penetration Testing, Ethical Hacking, SQL, Unix/Linux Environments |
 | **Web3 Systems** | Solidity, Hardhat Contracts |
-
----
-
-### 🚀 Featured Repositories
-
-#### ⚙️ [Core Web Application Portfolio](https://github.com)
-*Full-stack development tracking clean frontend delivery and robust backend architecture principles.*
-
 
 </div>
 
