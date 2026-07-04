@@ -94,6 +94,6 @@ I engineer reliable full-stack applications, conduct penetration testing to unco
 
 
 <p align="center">
-  💻 Always open to collaborating on exciting **Cybersecurity, or Fullstack Djnago projects**. Let’s innovate together!
+  💻 Always open to collaborating on exciting **Cybersecurity, or Fullstack Djnago projects**. Let’s innovate together!!
 </p>
 
