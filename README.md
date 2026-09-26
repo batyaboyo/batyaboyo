@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/batyaboyo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-batyaboyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
@@ -20,152 +20,266 @@
 
 ---
 
-# Hi, I am Batya Boyo
+# Hi, I'm Batya Boyo
 
-### Fullstack Software Engineer | Ethical Hacker | Data Analyst
+### Software Engineer | Cybersecurity Learner | Data Analyst
 
-> I build things, break things, and make sense of the data in between.
+> I build things, learn how they work, and practice making them better.
 
-I engineer reliable full-stack web applications, conduct structured penetration tests across web, network, and cloud attack surfaces, and extract clear intelligence from complex datasets. My work sits at the intersection of feature delivery, offensive security, and data-driven insights.
+I'm a developer and technology learner interested in **software development, cybersecurity, and data analysis**.
 
----
-
-## Three Core Pillars
-
-### Fullstack Software Engineering
-Architecting and delivering production-grade web applications using modern stacks — PHP/Laravel, Python/Django, TypeScript/Next.js, and React. I build secure-by-design APIs and systems with role-based access control, proper authentication flows, and hardened server configurations.
-
-### Data Analysis & Intelligence
-Processing, querying, and visualizing complex datasets to surface actionable intelligence. From log analytics pipelines with anomaly detection, to SQL-optimized dashboards tracking performance metrics — I turn raw data into clear decisions.
-
-### Ethical Hacking & Offensive Security
-I approach security from the attacker's perspective. That means probing web apps for injection flaws, pivoting through internal networks, chaining Active Directory misconfigurations into full domain compromises, sniffing wireless traffic, and misconfiguration-hunting in cloud environments. I compete in bug bounty programs on HackerOne and Bugcrowd, and treat red team exercises as end-to-end adversary simulations — not isolated scans.
-
-**Attack domains:** Web & API · Network (Internal/External) · Active Directory · Wireless · Cloud (AWS/GCP) · Bug Bounty
+I enjoy learning by building projects, writing code, experimenting with different technologies, and practicing security concepts in controlled environments.
 
 ---
 
-## Technologies & Tools
+## Three Core Areas
 
-<table>
-  <tr>
-    <td valign="top" width="25%">
+### 💻 Full-Stack Software Engineering
+
+I'm learning how to build web applications and understand how the different parts of an application work together.
+
+I'm currently working with **PHP, Laravel, Python, Django, JavaScript, TypeScript, React, and Next.js**.
+
+I'm also learning:
+
+* HTML & CSS
+* Frontend development
+* Backend development
+* REST APIs
+* Databases
+* Authentication
+* Git & GitHub
+* Basic application security
+
+---
+
+### 📊 Data Analysis
+
+I'm learning how to use programming and data tools to understand datasets and find useful information.
+
+I'm practicing with:
+
+* Python
+* Pandas
+* SQL
+* MySQL
+* PostgreSQL
+* Data cleaning
+* Data analysis
+* Data visualization
+* Grafana
+
+---
+
+### 🛡️ Offensive Security
+
+I'm learning how security testing works and how weaknesses can be discovered in applications, networks, and systems.
+
+I'm currently exploring:
+
+* Web security
+* API security
+* Network security
+* Linux
+* Reconnaissance
+* Vulnerability assessment
+* Active Directory
+* Wireless security
+* Cloud security
+* Security automation
+* CTFs and security labs
+
+I practice security concepts in **CTFs, labs, and authorized environments**.
+
+---
+
+## 🧰 Technologies & Tools
 
 ### Languages
 
 <div align="center">
-  <img src="https://img.icons8.com/color/2x/php.png" alt="PHP" height="48" />
-  <img src="https://img.icons8.com/color/2x/python.png" alt="Python" height="48" />
-  <img src="https://img.icons8.com/color/2x/javascript.png" alt="JavaScript" height="48" />
-  <img src="https://img.icons8.com/color/2x/typescript.png" alt="TypeScript" height="48" />
-  <img src="https://img.icons8.com/color/2x/html-5.png" alt="HTML5" height="48" />
-  <img src="https://img.icons8.com/color/2x/css3.png" alt="CSS3" height="48" />
+
+<img src="https://img.icons8.com/color/2x/php.png" alt="PHP" height="48" />
+<img src="https://img.icons8.com/color/2x/python.png" alt="Python" height="48" />
+<img src="https://img.icons8.com/color/2x/javascript.png" alt="JavaScript" height="48" />
+<img src="https://img.icons8.com/color/2x/typescript.png" alt="TypeScript" height="48" />
+<img src="https://img.icons8.com/color/2x/html-5.png" alt="HTML5" height="48" />
+<img src="https://img.icons8.com/color/2x/css3.png" alt="CSS3" height="48" />
+
 </div>
 
-</td>
-<td valign="top" width="25%">
-
-### Frameworks
+### Frameworks & Development
 
 <div align="center">
-  <img src="https://img.icons8.com/fluency/2x/laravel.png" alt="Laravel" height="48" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django" height="48" />
-  <img src="https://img.icons8.com/color/2x/nextjs.png" alt="Next.js" height="48" />
-  <img src="https://img.icons8.com/color/2x/react-native.png" alt="React" height="48" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" height="48" />
-  <img src="https://img.icons8.com/fluency/2x/node-js.png" alt="Node.js" height="48" />
+
+<img src="https://img.icons8.com/fluency/2x/laravel.png" alt="Laravel" height="48" />
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django" height="48" />
+<img src="https://img.icons8.com/color/2x/nextjs.png" alt="Next.js" height="48" />
+<img src="https://img.icons8.com/color/2x/react-native.png" alt="React" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" height="48" />
+<img src="https://img.icons8.com/fluency/2x/node-js.png" alt="Node.js" height="48" />
+
 </div>
 
-</td>
-<td valign="top" width="25%">
-
-### Security
+### Security & Systems
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" height="48" />
-  <img src="https://img.icons8.com/dusk/1x/linux.png" alt="Linux" height="48" />
-  <img src="https://img.icons8.com/color/2x/git.png" alt="Git" height="48" />
-  <img src="https://img.icons8.com/color/2x/github.png" alt="GitHub" height="48" />
-  <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="VS Code" height="48" />
-</div>
 
-</td>
-<td valign="top" width="25%">
+<img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" height="48" />
+<img src="https://img.icons8.com/dusk/1x/linux.png" alt="Linux" height="48" />
+<img src="https://img.icons8.com/color/2x/git.png" alt="Git" height="48" />
+<img src="https://img.icons8.com/color/2x/github.png" alt="GitHub" height="48" />
+<img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="VS Code" height="48" />
+
+</div>
 
 ### Data & Databases
 
 <div align="center">
-  <img src="https://img.icons8.com/color/2x/mysql-logo.png" alt="MySQL" height="48" />
-  <img src="https://img.icons8.com/color/2x/mongodb.png" alt="MongoDB" height="48" />
-  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="48" />
-  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" height="48" />
-  <img src="https://img.icons8.com/color/48/grafana.png" alt="Grafana" height="48" />
-</div>
 
-</td>
-  </tr>
-</table>
-
----
-
-## Security Toolchain
-
-| Domain | Tools |
-|:---|:---|
-| **Web & API Testing** | Burp Suite Pro, OWASP ZAP, SQLMap, ffuf, Nikto |
-| **Network & Recon** | Nmap, Masscan, Wireshark, Netcat, Metasploit |
-| **Active Directory** | BloodHound, SharpHound, Mimikatz, Impacket, CrackMapExec, Responder |
-| **Password Auditing** | Hashcat, John the Ripper, Hydra |
-| **Wireless** | Aircrack-ng, Airodump-ng, Hostapd (Evil Twin) |
-| **Cloud Security** | Prowler, ScoutSuite (AWS & GCP) |
-| **Vuln Assessment** | Nessus, OpenVAS, Nuclei |
-| **OSINT & Recon** | Subfinder, Amass, httpx, EyeWitness, theHarvester |
-
----
-
-## Featured Projects
-
-| Project | Domain | Stack | Description |
-|:---|:---:|:---|:---|
-| [Personal Ethical Hacking Lab](https://github.com/batyaboyo/hacking-lab) | Security | Kali, VirtualBox, Nmap, Metasploit | Isolated pentest environment with attacker/target VMs across a dedicated internal network |
-| [OWASP Top 10 Demos](https://github.com/batyaboyo/owasp-demos) | Security | DVWA, Burp Suite, SQLMap | Hands-on PoC walkthroughs for SQLi, XSS, IDOR, CSRF with annotated remediation guides |
-| [Active Directory Attack Lab](https://github.com/batyaboyo/ad-attack-lab) | Security | BloodHound, Mimikatz, Impacket | Full AD compromise chain: SMB relay > Kerberoasting > Pass-the-Hash > DCSync |
-| [Bug Bounty Recon Framework](https://github.com/batyaboyo/bugbounty-recon) | Security | Subfinder, httpx, GoBuster | Automated recon pipeline with risk prioritization for HackerOne/Bugcrowd scope |
-| [Laravel E-Commerce & Analytics Portal](https://github.com/batyaboyo/laravel-analytics) | Fullstack | PHP, Laravel 11, MySQL, Tailwind | Multi-vendor platform with RBAC, Sanctum auth, RESTful APIs, and analytics dashboards |
-| [System Metrics & Log Analytics Engine](https://github.com/batyaboyo/log-analytics) | Data | Python, Pandas, PostgreSQL, Grafana | Log ingestion pipeline with IQR anomaly detection and real-time Grafana dashboards |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://gh-readme-profile.vercel.app/api?username=batyaboyo&theme=tokyonight&border_radius=4.5" alt="GitHub Profile Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyaboyo&langs_count=8&theme=tokyonight&layout=compact&border_radius=4.5" alt="Top Languages" />
-
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=batyaboyo&theme=tokyonight&border_radius=4.5)](https://git.io/streak-stats)
+<img src="https://img.icons8.com/color/2x/mysql-logo.png" alt="MySQL" height="48" />
+<img src="https://img.icons8.com/color/2x/mongodb.png" alt="MongoDB" height="48" />
+<img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="48" />
+<img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" height="48" />
+<img src="https://img.icons8.com/color/48/grafana.png" alt="Grafana" height="48" />
 
 </div>
 
 ---
 
-## Profile Views
+## 🔐 Security Topics I'm Exploring
+
+| Area                         | What I'm Learning                                                                      |
+| :--------------------------- | :------------------------------------------------------------------------------------- |
+| **Web Security**             | Learning how web applications work and where common security problems can occur        |
+| **API Security**             | Learning how APIs work, how they are tested, and common security issues                |
+| **Network Security**         | Learning networking basics, scanning, traffic analysis, and network security           |
+| **Linux**                    | Learning Linux commands, permissions, processes, networking, and system administration |
+| **Active Directory**         | Learning about Windows domains, users, groups, permissions, and authentication         |
+| **Wireless Security**        | Learning wireless networking and basic wireless security concepts                      |
+| **Cloud Security**           | Exploring basic security concepts in AWS and GCP                                       |
+| **Vulnerability Assessment** | Learning how to identify, understand, and document security weaknesses                 |
+| **Security Automation**      | Using Python and scripting to automate simple security tasks                           |
+| **CTFs & Labs**              | Practicing security concepts in controlled environments                                |
+
+---
+
+## 🧪 Learning Through Practice
+
+I learn best by **building things and trying them myself**.
+
+Some of the things I'm practicing include:
+
+* Building web applications
+* Learning Python
+* Working with Django
+* Working with databases
+* Building mobile applications
+* Practicing data analysis
+* Setting up Linux environments
+* Using Git and GitHub
+* Creating cybersecurity labs
+* Practicing with vulnerable applications
+* Solving CTF challenges
+* Writing small scripts
+* Documenting what I learn
+
+---
+
+## 📂 What You'll Find Here
+
+My GitHub contains different areas of learning and experimentation, including:
+
+### 💻 Software Development
+
+Projects and exercises related to:
+
+* Python
+* Django
+* Web development
+* JavaScript
+* Mobile development
+* Backend development
+
+### 📊 Data & Analysis
+
+Projects and exercises related to:
+
+* Python
+* Data science
+* Data analysis
+* Jupyter Notebook
+* SQL
+
+### 🔐 Cybersecurity
+
+Learning exercises and experiments related to:
+
+* Linux
+* Networking
+* Web security
+* Security labs
+* Vulnerability testing
+* CTF practice
+
+---
+
+## 📚 Currently Learning
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=batyaboyo&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
+
+| 💻 Development |        🔐 Security       |       📊 Data      |
+| :------------: | :----------------------: | :----------------: |
+|     Python     |           Linux          |       Python       |
+|     Django     |        Networking        |       Pandas       |
+|   JavaScript   |       Web Security       |         SQL        |
+|       PHP      |       API Security       |        MySQL       |
+|     Laravel    | Vulnerability Assessment |     PostgreSQL     |
+|      React     |     Active Directory     | Data Visualization |
+|     Next.js    |      Cloud Security      |       Jupyter      |
+
+</div>
+
+---
+
+## 🚀 Learning by Doing
+
+I use GitHub to keep track of what I'm learning and to practice by building real projects.
+
+My approach is simple:
+
+**Learn → Build → Practice → Make Mistakes → Improve**
+
+I'm still learning, and this profile is part of that journey.
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/batyaboyo/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-batyaboyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://twitter.com/batyaboyo" target="_blank">
+  <img src="https://img.shields.io/badge/X-@batyaboyo-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+
+<a href="https://github.com/batyaboyo" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-batyaboyo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="mailto:batztonnie@gmail.com">
+  <img src="https://img.shields.io/badge/Email-batztonnie@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-Open to collaborating on **fullstack engineering**, **penetration testing**, **data analytics**, and **bug bounty** work.
-
-*Let us build something — or break something responsibly.*
+### Learn. Build. Practice. Improve.
 
 </div>
