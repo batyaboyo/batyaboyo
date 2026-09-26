@@ -22,11 +22,11 @@
 
 # Hi, I am Batya Tonny Boyo
 
-### Junior Cybersecurity Analyst | Computer Science Student | IT Support Professional
+### Junior Cybersecurity Analyst | IT Support Professional
 
-> Building a practical path into cybersecurity through IT support experience, security labs, networking and software development.
+> Building a practical career in cybersecurity through IT support experience, security labs, networking and software development.
 
-I am a Computer Science student approaching graduation, with previous professional IT Support experience and a technical foundation across cybersecurity, Linux, networking, databases, Python and web development. My immediate goal is to begin a career in entry-level cybersecurity, security operations or a closely related technical role.
+I am an emerging cybersecurity professional with previous professional IT Support experience and a technical foundation across cybersecurity, Linux, networking, databases, Python and web development. My immediate goal is to contribute in cybersecurity, security operations or a closely related technical role.
 
 I focus on building demonstrable skills through hands-on labs, technical documentation and projects that I can explain clearly in an interview.
 
@@ -52,7 +52,6 @@ I focus on building demonstrable skills through hands-on labs, technical documen
 - Junior Systems Administrator
 - Application Support
 - Network/Security Administrator
-- Graduate IT or Technology Trainee
 
 ---
 
@@ -166,30 +165,18 @@ I focus on building demonstrable skills through hands-on labs, technical documen
 
 ---
 
-## Education
-
-### Bachelor of Science in Computer Science
-
-**Universal Technology and Management University | 2023–2026**
-
-### ALX Academy — Software Engineering
-
-**2022–2023**
-
----
-
 ## Labs, Projects & Evidence
 
-I use practical labs and documented projects to strengthen my understanding of cybersecurity and demonstrate what I can do. Current areas of focus include:
+I use practical labs and documented projects to strengthen my cybersecurity capabilities and demonstrate what I can do. Current areas of focus include:
 
 - Linux and Windows system administration fundamentals
 - Network discovery and traffic analysis using tools such as Nmap and Wireshark
-- OWASP Top 10 learning exercises in controlled environments
+- OWASP Top 10 exercises in controlled environments
 - Log analysis and security-focused Python automation
 - Secure web application and REST API development
 - GitHub-based technical documentation and project write-ups
 
-> Academic work, personal labs and professional employment are kept clearly distinct. I only claim tools, projects and activities that I can demonstrate and explain.
+> Personal labs, professional employment and project work are kept clearly distinct. I only claim tools, projects and activities that I can demonstrate and explain.
 
 ---
 
@@ -221,9 +208,9 @@ I use practical labs and documented projects to strengthen my understanding of c
 
 ## Professional Brand
 
-**Short version:** Junior Cybersecurity Analyst with a Computer Science background, IT Support experience and hands-on exposure to Linux, network troubleshooting, vulnerability assessment, Kali Linux, Nmap, Wireshark and Python.
+**Short version:** Junior Cybersecurity Analyst with IT Support experience and hands-on exposure to Linux, network troubleshooting, vulnerability assessment, Kali Linux, Nmap, Wireshark and Python.
 
-**One-line version:** Computer Science student transitioning into cybersecurity through practical IT Support experience, security labs, networking and software development.
+**One-line version:** IT Support professional transitioning into cybersecurity through practical experience, security labs, networking and software development.
 
 ---
 
