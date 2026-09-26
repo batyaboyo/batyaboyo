@@ -30,7 +30,158 @@ I am an emerging cybersecurity professional with previous professional IT Suppor
 
 I focus on building demonstrable skills through hands-on labs, technical documentation and projects that I can explain clearly in an interview.
 
-# GitHub Stats
+---
+
+## Career Direction
+
+### Primary Target Roles
+
+- Junior Cybersecurity Analyst
+- Entry-Level SOC Analyst
+- Security Operations Trainee
+- Information Security Assistant
+- IT Security Support
+- Junior Security Analyst
+- Security Operations Intern
+- Junior Vulnerability Assessment Analyst
+
+### Related Entry Paths
+
+- IT Support or Technical Support
+- Network Support
+- Junior Systems Administrator
+- Application Support
+- Network/Security Administrator
+
+---
+
+## Technical Foundation
+
+### Cybersecurity
+
+- Kali Linux
+- OWASP Top 10
+- Nmap
+- Wireshark
+- Vulnerability assessment fundamentals
+- Cybersecurity labs
+- Security fundamentals
+
+### Systems & Infrastructure
+
+- Linux administration
+- Windows Server fundamentals
+- Network troubleshooting
+- Hardware troubleshooting
+- Software troubleshooting
+
+### Programming & Automation
+
+- Python
+- Bash
+- PHP
+- SQL
+- JavaScript
+
+### Software Development
+
+- Django
+- Laravel
+- REST APIs
+- HTML and CSS
+- Git and GitHub
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- SQLite
+
+---
+
+## Development Priorities
+
+### Security Operations
+
+- Log analysis
+- Security monitoring
+- SIEM fundamentals
+- Alert investigation
+- Incident-response fundamentals
+
+### Network Security
+
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Firewalls
+- Network traffic analysis
+- Network enumeration
+
+### Web Security
+
+- OWASP Top 10
+- Authentication and authorization
+- Access-control weaknesses
+- Common web vulnerabilities
+- Secure remediation
+
+### Security Automation
+
+- Python and Bash scripting
+- Log processing
+- Security-focused automation
+- Repeatable investigation workflows
+
+### Professional Evidence
+
+- Cybersecurity portfolio development
+- Clear GitHub documentation
+- Technical write-ups
+- Lab evidence and notes
+- Interview-ready project explanations
+
+---
+
+## Professional Experience
+
+### Junior IT Support
+
+**Greencellent Consults Ltd | September 2022 – August 2023**
+
+- Installed and maintained IT systems.
+- Troubleshot hardware, software and network issues.
+- Provided user support and practical technical assistance.
+- Developed experience supporting reliable day-to-day IT operations.
+
+### Data Entry Operator
+
+**Rarawa Investments Ltd | 2021/2022 – August 2022**
+
+- Performed high-volume data entry.
+- Validated information for accuracy and consistency.
+- Maintained accurate digital records.
+- Applied a quality-focused approach to data handling.
+
+---
+
+## Labs, Projects & Evidence
+
+I use practical labs and documented projects to strengthen my cybersecurity capabilities and demonstrate what I can do. Current areas of focus include:
+
+- Linux and Windows system administration fundamentals
+- Network discovery and traffic analysis using tools such as Nmap and Wireshark
+- OWASP Top 10 exercises in controlled environments
+- Log analysis and security-focused Python automation
+- Secure web application and REST API development
+- GitHub-based technical documentation and project write-ups
+
+> Personal labs, professional employment and project work are kept clearly distinct. I only claim tools, projects and activities that I can demonstrate and explain.
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
 <img src="https://gh-readme-profile.vercel.app/api?username=batyaboyo&theme=tokyonight&border_radius=4.5" alt="GitHub Profile Stats" />
