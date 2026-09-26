@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/batyaboyo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-batyaboyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
@@ -20,119 +20,176 @@
 
 ---
 
-# Hi, I am Batya Boyo
+# Hi, I am Batya Tonny Boyo
 
-### Fullstack Software Engineer | Ethical Hacker | Data Analyst
+### Junior Cybersecurity Analyst | Computer Science Student | IT Support Professional
 
-> I build things, break things, and make sense of the data in between.
+> Building a practical path into cybersecurity through IT support experience, security labs, networking and software development.
 
-I engineer reliable full-stack web applications, conduct structured penetration tests across web, network, and cloud attack surfaces, and extract clear intelligence from complex datasets. My work sits at the intersection of feature delivery, offensive security, and data-driven insights.
+I am a Computer Science student approaching graduation, with previous professional IT Support experience and a technical foundation across cybersecurity, Linux, networking, databases, Python and web development. My immediate goal is to begin a career in entry-level cybersecurity, security operations or a closely related technical role.
 
----
-
-## Three Core Pillars
-
-### Fullstack Software Engineering
-Architecting and delivering production-grade web applications using modern stacks — PHP/Laravel, Python/Django, TypeScript/Next.js, and React. I build secure-by-design APIs and systems with role-based access control, proper authentication flows, and hardened server configurations.
-
-### Data Analysis & Intelligence
-Processing, querying, and visualizing complex datasets to surface actionable intelligence. From log analytics pipelines with anomaly detection, to SQL-optimized dashboards tracking performance metrics — I turn raw data into clear decisions.
-
-### Ethical Hacking & Offensive Security
-I approach security from the attacker's perspective. That means probing web apps for injection flaws, pivoting through internal networks, chaining Active Directory misconfigurations into full domain compromises, sniffing wireless traffic, and misconfiguration-hunting in cloud environments. I compete in bug bounty programs on HackerOne and Bugcrowd, and treat red team exercises as end-to-end adversary simulations — not isolated scans.
-
-**Attack domains:** Web & API · Network (Internal/External) · Active Directory · Wireless · Cloud (AWS/GCP) · Bug Bounty
+I focus on building demonstrable skills through hands-on labs, technical documentation and projects that I can explain clearly in an interview.
 
 ---
 
-## Technologies & Tools
+## Career Direction
 
-<table>
-  <tr>
-    <td valign="top" width="25%">
+### Primary Target Roles
 
-### Languages
+- Junior Cybersecurity Analyst
+- Entry-Level SOC Analyst
+- Security Operations Trainee
+- Information Security Assistant
+- IT Security Support
+- Junior Security Analyst
+- Security Operations Intern
+- Junior Vulnerability Assessment Analyst
 
-<div align="center">
-  <img src="https://img.icons8.com/color/2x/php.png" alt="PHP" height="48" />
-  <img src="https://img.icons8.com/color/2x/python.png" alt="Python" height="48" />
-  <img src="https://img.icons8.com/color/2x/javascript.png" alt="JavaScript" height="48" />
-  <img src="https://img.icons8.com/color/2x/typescript.png" alt="TypeScript" height="48" />
-  <img src="https://img.icons8.com/color/2x/html-5.png" alt="HTML5" height="48" />
-  <img src="https://img.icons8.com/color/2x/css3.png" alt="CSS3" height="48" />
-</div>
+### Related Entry Paths
 
-</td>
-<td valign="top" width="25%">
-
-### Frameworks
-
-<div align="center">
-  <img src="https://img.icons8.com/fluency/2x/laravel.png" alt="Laravel" height="48" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="Django" height="48" />
-  <img src="https://img.icons8.com/color/2x/nextjs.png" alt="Next.js" height="48" />
-  <img src="https://img.icons8.com/color/2x/react-native.png" alt="React" height="48" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tailwind CSS" height="48" />
-  <img src="https://img.icons8.com/fluency/2x/node-js.png" alt="Node.js" height="48" />
-</div>
-
-</td>
-<td valign="top" width="25%">
-
-### Security
-
-<div align="center">
-  <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" height="48" />
-  <img src="https://img.icons8.com/dusk/1x/linux.png" alt="Linux" height="48" />
-  <img src="https://img.icons8.com/color/2x/git.png" alt="Git" height="48" />
-  <img src="https://img.icons8.com/color/2x/github.png" alt="GitHub" height="48" />
-  <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="VS Code" height="48" />
-</div>
-
-</td>
-<td valign="top" width="25%">
-
-### Data & Databases
-
-<div align="center">
-  <img src="https://img.icons8.com/color/2x/mysql-logo.png" alt="MySQL" height="48" />
-  <img src="https://img.icons8.com/color/2x/mongodb.png" alt="MongoDB" height="48" />
-  <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" height="48" />
-  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" height="48" />
-  <img src="https://img.icons8.com/color/48/grafana.png" alt="Grafana" height="48" />
-</div>
-
-</td>
-  </tr>
-</table>
+- IT Support or Technical Support
+- Network Support
+- Junior Systems Administrator
+- Application Support
+- Network/Security Administrator
+- Graduate IT or Technology Trainee
 
 ---
 
-## Security Toolchain
+## Technical Foundation
 
-| Domain | Tools |
-|:---|:---|
-| **Web & API Testing** | Burp Suite Pro, OWASP ZAP, SQLMap, ffuf, Nikto |
-| **Network & Recon** | Nmap, Masscan, Wireshark, Netcat, Metasploit |
-| **Active Directory** | BloodHound, SharpHound, Mimikatz, Impacket, CrackMapExec, Responder |
-| **Password Auditing** | Hashcat, John the Ripper, Hydra |
-| **Wireless** | Aircrack-ng, Airodump-ng, Hostapd (Evil Twin) |
-| **Cloud Security** | Prowler, ScoutSuite (AWS & GCP) |
-| **Vuln Assessment** | Nessus, OpenVAS, Nuclei |
-| **OSINT & Recon** | Subfinder, Amass, httpx, EyeWitness, theHarvester |
+### Cybersecurity
+
+- Kali Linux
+- OWASP Top 10
+- Nmap
+- Wireshark
+- Vulnerability assessment fundamentals
+- Cybersecurity labs
+- Security fundamentals
+
+### Systems & Infrastructure
+
+- Linux administration
+- Windows Server fundamentals
+- Network troubleshooting
+- Hardware troubleshooting
+- Software troubleshooting
+
+### Programming & Automation
+
+- Python
+- Bash
+- PHP
+- SQL
+- JavaScript
+
+### Software Development
+
+- Django
+- Laravel
+- REST APIs
+- HTML and CSS
+- Git and GitHub
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- SQLite
 
 ---
 
-## Featured Projects
+## Development Priorities
 
-| Project | Domain | Stack | Description |
-|:---|:---:|:---|:---|
-| [Personal Ethical Hacking Lab](https://github.com/batyaboyo/hacking-lab) | Security | Kali, VirtualBox, Nmap, Metasploit | Isolated pentest environment with attacker/target VMs across a dedicated internal network |
-| [OWASP Top 10 Demos](https://github.com/batyaboyo/owasp-demos) | Security | DVWA, Burp Suite, SQLMap | Hands-on PoC walkthroughs for SQLi, XSS, IDOR, CSRF with annotated remediation guides |
-| [Active Directory Attack Lab](https://github.com/batyaboyo/ad-attack-lab) | Security | BloodHound, Mimikatz, Impacket | Full AD compromise chain: SMB relay > Kerberoasting > Pass-the-Hash > DCSync |
-| [Bug Bounty Recon Framework](https://github.com/batyaboyo/bugbounty-recon) | Security | Subfinder, httpx, GoBuster | Automated recon pipeline with risk prioritization for HackerOne/Bugcrowd scope |
-| [Laravel E-Commerce & Analytics Portal](https://github.com/batyaboyo/laravel-analytics) | Fullstack | PHP, Laravel 11, MySQL, Tailwind | Multi-vendor platform with RBAC, Sanctum auth, RESTful APIs, and analytics dashboards |
-| [System Metrics & Log Analytics Engine](https://github.com/batyaboyo/log-analytics) | Data | Python, Pandas, PostgreSQL, Grafana | Log ingestion pipeline with IQR anomaly detection and real-time Grafana dashboards |
+### Security Operations
+
+- Log analysis
+- Security monitoring
+- SIEM fundamentals
+- Alert investigation
+- Incident-response fundamentals
+
+### Network Security
+
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Firewalls
+- Network traffic analysis
+- Network enumeration
+
+### Web Security
+
+- OWASP Top 10
+- Authentication and authorization
+- Access-control weaknesses
+- Common web vulnerabilities
+- Secure remediation
+
+### Security Automation
+
+- Python and Bash scripting
+- Log processing
+- Security-focused automation
+- Repeatable investigation workflows
+
+### Professional Evidence
+
+- Cybersecurity portfolio development
+- Clear GitHub documentation
+- Technical write-ups
+- Lab evidence and notes
+- Interview-ready project explanations
+
+---
+
+## Professional Experience
+
+### Junior IT Support
+
+**Greencellent Consults Ltd | September 2022 – August 2023**
+
+- Installed and maintained IT systems.
+- Troubleshot hardware, software and network issues.
+- Provided user support and practical technical assistance.
+- Developed experience supporting reliable day-to-day IT operations.
+
+### Data Entry Operator
+
+**Rarawa Investments Ltd | 2021/2022 – August 2022**
+
+- Performed high-volume data entry.
+- Validated information for accuracy and consistency.
+- Maintained accurate digital records.
+- Applied a quality-focused approach to data handling.
+
+---
+
+## Education
+
+### Bachelor of Science in Computer Science
+
+**Universal Technology and Management University | 2023–2026**
+
+### ALX Academy — Software Engineering
+
+**2022–2023**
+
+---
+
+## Labs, Projects & Evidence
+
+I use practical labs and documented projects to strengthen my understanding of cybersecurity and demonstrate what I can do. Current areas of focus include:
+
+- Linux and Windows system administration fundamentals
+- Network discovery and traffic analysis using tools such as Nmap and Wireshark
+- OWASP Top 10 learning exercises in controlled environments
+- Log analysis and security-focused Python automation
+- Secure web application and REST API development
+- GitHub-based technical documentation and project write-ups
+
+> Academic work, personal labs and professional employment are kept clearly distinct. I only claim tools, projects and activities that I can demonstrate and explain.
 
 ---
 
@@ -162,10 +219,18 @@ I approach security from the attacker's perspective. That means probing web apps
 
 ---
 
+## Professional Brand
+
+**Short version:** Junior Cybersecurity Analyst with a Computer Science background, IT Support experience and hands-on exposure to Linux, network troubleshooting, vulnerability assessment, Kali Linux, Nmap, Wireshark and Python.
+
+**One-line version:** Computer Science student transitioning into cybersecurity through practical IT Support experience, security labs, networking and software development.
+
+---
+
 <div align="center">
 
-Open to collaborating on **fullstack engineering**, **penetration testing**, **data analytics**, and **bug bounty** work.
+Open to opportunities in **cybersecurity**, **security operations**, **IT security**, **IT support**, **network support**, and related entry-level technology roles.
 
-*Let us build something — or break something responsibly.*
+**Build evidence → apply → interview → learn from gaps → improve → apply again.**
 
 </div>
