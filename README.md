@@ -139,89 +139,40 @@ I practice security concepts in **CTFs, labs, and authorized environments**.
 
 </div>
 
----
 
-## 🔐 Security Topics I'm Exploring
-
-| Area                         | What I'm Learning                                                                      |
-| :--------------------------- | :------------------------------------------------------------------------------------- |
-| **Web Security**             | Learning how web applications work and where common security problems can occur        |
-| **API Security**             | Learning how APIs work, how they are tested, and common security issues                |
-| **Network Security**         | Learning networking basics, scanning, traffic analysis, and network security           |
-| **Linux**                    | Learning Linux commands, permissions, processes, networking, and system administration |
-| **Active Directory**         | Learning about Windows domains, users, groups, permissions, and authentication         |
-| **Wireless Security**        | Learning wireless networking and basic wireless security concepts                      |
-| **Cloud Security**           | Exploring basic security concepts in AWS and GCP                                       |
-| **Vulnerability Assessment** | Learning how to identify, understand, and document security weaknesses                 |
-| **Security Automation**      | Using Python and scripting to automate simple security tasks                           |
-| **CTFs & Labs**              | Practicing security concepts in controlled environments                                |
 
 ---
 
-## 🧪 Learning Through Practice
+## GitHub Stats
 
-I learn best by **building things and trying them myself**.
+<div align="center">
 
-Some of the things I'm practicing include:
+<img src="https://gh-readme-profile.vercel.app/api?username=batyaboyo&theme=tokyonight&border_radius=4.5" alt="GitHub Profile Stats" />
 
-* Building web applications
-* Learning Python
-* Working with Django
-* Working with databases
-* Building mobile applications
-* Practicing data analysis
-* Setting up Linux environments
-* Using Git and GitHub
-* Creating cybersecurity labs
-* Practicing with vulnerable applications
-* Solving CTF challenges
-* Writing small scripts
-* Documenting what I learn
+<br><br>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyaboyo&langs_count=8&theme=tokyonight&layout=compact&border_radius=4.5" alt="Top Languages" />
+
+<br><br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=batyaboyo&theme=tokyonight&border_radius=4.5)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🚀 Learning by Doing
-
-I use GitHub to keep track of what I'm learning and to practice by building real projects.
-
-My approach is simple:
-
-**Learn → Build → Practice → Make Mistakes → Improve**
-
-I'm still learning, and this profile is part of that journey.
-
----
-
-## 📫 Connect With Me
+## Profile Views
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/batyaboyo/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-batyaboyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://twitter.com/batyaboyo" target="_blank">
-  <img src="https://img.shields.io/badge/X-@batyaboyo-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-
-<a href="https://github.com/batyaboyo" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-batyaboyo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="mailto:batztonnie@gmail.com">
-  <img src="https://img.shields.io/badge/Email-batztonnie@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=batyaboyo&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
 
-### Learn. Build. Practice. Improve.
+Open to collaborating on **fullstack engineering**, **penetration testing**, **data analytics**, and **bug bounty** work.
+
+*Let us build something — or break something responsibly.*
 
 </div>
