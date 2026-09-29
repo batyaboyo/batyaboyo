@@ -38,7 +38,7 @@ I enjoy learning by building projects, writing code, experimenting with differen
 
 I'm learning how to build web applications and understand how the different parts of an application work together.
 
-I'm currently working with **PHP, Laravel, Python, Django, JavaScript, TypeScript, React, and Next.js**.
+I'm currently working with **PHP, Python,JavaScript**.
 
 I'm also learning:
 
