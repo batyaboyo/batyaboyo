@@ -42,14 +42,8 @@ I'm currently working with **PHP, Laravel, Python, Django, JavaScript, TypeScrip
 
 I'm also learning:
 
-* HTML & CSS
-* Frontend development
 * Backend development
-* REST APIs
-* Databases
-* Authentication
-* Git & GitHub
-* Basic application security
+* Ofensive Security
 
 ---
 
