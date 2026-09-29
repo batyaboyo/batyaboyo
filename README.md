@@ -184,6 +184,18 @@ Some of the things I'm practicing include:
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=batyaboyo&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Batya Boyo GitHub stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batyaboyo&layout=compact&hide_border=true&theme=transparent" alt="Batya Boyo top languages card" />
+  <img src="https://streak-stats.demolab.com?user=batyaboyo&hide_border=true&theme=transparent" alt="Batya Boyo contribution streak card" />
+
+</div>
+
+---
+
 ## 🚀 Learning by Doing
 
 I use GitHub to keep track of what I'm learning and to practice by building real projects.
